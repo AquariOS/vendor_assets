@@ -30,4 +30,8 @@
     <!-- For date picker widget -->
     <drawable name="selected_day_background">#ff0da0ba</drawable>
 
+    <!-- Multi-sim sim colors -->
+    <color name="Teal_700">#ff5a9af8</color>
+    <color name="Teal_800">#ff5795f0</color>
+
 </resources>
