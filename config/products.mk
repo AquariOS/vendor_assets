@@ -23,4 +23,4 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,vendor/assets/fonts/ttf,$(TARGET_COPY_OUT_SYSTEM)/fonts)
+    $(call find-copy-subdir-files,*,vendor/assets/fonts/assets/fonts,$(TARGET_COPY_OUT_SYSTEM)/fonts)
