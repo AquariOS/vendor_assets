@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     InstagramCerise \
     JollibeeCrimson \
     MonsterEnergyGreen \
+    Netflix \
     NextbitMint \
     OneplusRed \
     PepsiBlue \
