@@ -1,5 +1,6 @@
 # Primary
 PRODUCT_PACKAGES += \
+    AquariosThemesStub \
     PrimaryColorBlackSeaOverlay \
     PrimaryColorAquaNightSkyOverlay \
     PrimaryColorDeepOceanNightOverlay
