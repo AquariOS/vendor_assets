@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.accents.instagramcerise"
+    package="com.android.theme.color.instagramcerise"
     android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="android" android:category="android.theme.customization.accent_color" android:priority="1"/>
 
-    <application android:label="InstagramCerise" android:hasCode="false"/>
+    <application android:label="@string/accent_color_instagramcerise_overlay" android:hasCode="false"/>
 </manifest>
