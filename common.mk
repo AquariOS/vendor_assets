@@ -4,6 +4,7 @@ include vendor/assets/config/products.mk
 include vendor/assets/config/theming.mk
 
 # Overlays
+DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
 PRODUCT_PACKAGE_OVERLAYS += vendor/assets/overlay/common/
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/assets/overlay/common/
 
