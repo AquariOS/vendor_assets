@@ -2,6 +2,7 @@
 include vendor/assets/config/sounds.mk
 include vendor/assets/config/products.mk
 include vendor/assets/config/theming.mk
+include vendor/assets/config/special_packages.mk
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += vendor/themes/overlay/common
