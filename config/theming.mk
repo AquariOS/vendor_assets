@@ -1,3 +1,7 @@
+# Primary
+PRODUCT_PACKAGES += \
+    PrimaryColorBlackSeaOverlay
+
 # Google Accents
 PRODUCT_PACKAGES += \
     Amber \
