@@ -1,7 +1,8 @@
 # Primary
 PRODUCT_PACKAGES += \
     PrimaryColorBlackSeaOverlay \
-    PrimaryColorAquaNightSkyOverlay
+    PrimaryColorAquaNightSkyOverlay \
+    PrimaryColorDeepOceanNightOverlay
 
 # Google Accents
 PRODUCT_PACKAGES += \
