@@ -14,4 +14,7 @@
 
 # Common packages
 PRODUCT_PACKAGES += \
-    Longshot
+    Longshot \
+    bootanimation.zip \
+    charger_res_images \
+    product_charger_res_images
