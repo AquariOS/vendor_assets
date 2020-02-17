@@ -1,3 +1,6 @@
+# Other makefiles
+include vendor/assets/config/sounds.mk
+
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/assets/overlay/common/
 
