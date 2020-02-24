@@ -5,6 +5,7 @@ include vendor/assets/config/accents.mk
 
 # Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/assets/overlay/common/
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/assets/overlay/common/
 
 # Permissions
 PRODUCT_COPY_FILES += \
