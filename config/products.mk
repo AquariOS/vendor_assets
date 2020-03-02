@@ -19,3 +19,7 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images \
     ThemePicker
+
+# Fonts
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,vendor/assets/fonts/ttf,$(TARGET_COPY_OUT_SYSTEM)/fonts)
