@@ -18,14 +18,14 @@
 <!-- Colors specific to DeviceDefault themes. These are mostly pass-throughs to enable
      overlaying new theme colors. -->
 <resources>
-    <color name="accent_device_default_50">#ff80ddf2</color>
-    <color name="accent_device_default_700">#ff10b8de</color>
-    <color name="accent_device_default_light">#ff80ddf2</color>
-    <color name="accent_device_default_dark">#ff10b8de</color>
+    <color name="accent_device_default_50">#ff9cd9f0</color>
+    <color name="accent_device_default_700">#ff5eb2d1</color>
+    <color name="accent_device_default_light">#ff1481a8</color>
+    <color name="accent_device_default_dark">#ff1481a8</color>
     <color name="background_device_default_light">#ffffffff</color>
     <color name="background_floating_device_default_dark">#ff202125</color>
-    <color name="error_color_device_default_dark">#fff4511e</color>
-    <color name="error_color_device_default_light">#fff07954</color>
+    <color name="error_color_device_default_dark">#fff4451e</color>
+    <color name="error_color_device_default_light">#fff4451e</color>
     <color name="primary_dark_device_default_dark">#ff202125</color>
     <color name="primary_dark_device_default_settings">#ff202125</color>
     <color name="primary_dark_device_default_settings_light">#ffffffff</color>
