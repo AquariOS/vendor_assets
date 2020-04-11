@@ -25,4 +25,7 @@
     <!-- Whether system_update_settings should be shown or not. -->
     <bool name="config_show_system_update_settings">false</bool>
 
+    <!-- When true enable gesture setting. -->
+    <bool name="config_gesture_settings_enabled">true</bool>
+
 </resources>
