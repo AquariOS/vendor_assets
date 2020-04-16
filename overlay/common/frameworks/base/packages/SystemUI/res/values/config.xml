@@ -19,4 +19,8 @@
     <!-- Launcher package name for overlaying icons. -->
     <string name="launcher_overlayable_package" translatable="false">com.google.android.apps.nexuslauncher</string>
 
+    <!-- Should we vibrate on an icon animation of the shelf. This should only be active if the
+     vibrator is capable of subtle vibrations -->
+    <bool name="config_vibrateOnIconAnimation">true</bool>
+
 </resources>
