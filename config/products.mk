@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
     bootanimation.zip \
     charger_res_images \
     product_charger_res_images \
-    ThemePicker
+    ThemePicker \
+    OmniStyle
 
 # Fonts
 PRODUCT_COPY_FILES += \
